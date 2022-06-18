@@ -100,11 +100,12 @@
 	      <url>http://54.163.75.187:8081/repository/paypal-snapshot/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
+	   <!-- <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://100.24.52.91:4000/repository/ebay-bts-snapshot/</url>
 	    </snapshotRepository>
+	  -->
 	    
 	</distributionManagement>
 	
